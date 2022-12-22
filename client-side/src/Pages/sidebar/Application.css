@@ -1,0 +1,18 @@
+.approve{
+    
+  color: white;
+  font-size: 15px;
+  padding: 10px ;
+  border-radius: 5px;
+  /* margin: 10px 0px; */
+  cursor: pointer;
+}
+
+.view{
+  color: white;
+  font-size: 15px;
+  padding: 10px 30px;
+  border-radius: 5px;
+  /* margin: 10px 0px; */
+  cursor: pointer;
+}

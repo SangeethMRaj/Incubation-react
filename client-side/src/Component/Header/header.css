@@ -1,0 +1,12 @@
+.sticky{
+    position: fixed;
+    width: 87%;
+}
+
+.stickywidth{
+    width: 100%;
+}
+.scroll-table{
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
